@@ -1,2 +1,4 @@
 Aquest és un text de prova.
 Aquest text es afegit per introduir uns canvis.
+
+Ara faig uns altres canvis suposadament només en la branca "branch1".
