@@ -1,2 +1,4 @@
 Aquest és un text de prova.
 Aquest text es afegit per introduir uns canvis.
+
+Però ara he tornat a la branca master, i faig uns nous canvis que no afectaran a la branch1.
